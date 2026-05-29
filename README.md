@@ -195,7 +195,7 @@ If you use BwETAFv4-preview in your work, please cite:
 @misc{bwetafv4preview2025,
   title        = {BwETAFv4-preview},
   author       = {Boring._.wicked},
-  year         = {2025},
+  year         = {2026},
   note         = {250M total / 83M active parameter autoregressive Mixture-of-Experts language model},
   url          = {https://huggingface.co/WICKED4950/BwETAFv4-preview}
 }
