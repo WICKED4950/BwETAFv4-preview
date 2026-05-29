@@ -192,7 +192,7 @@ BwETAFv4-preview is a small-scale language model and has several limitations:
 If you use BwETAFv4-preview in your work, please cite:
 
 ```bibtex
-@misc{bwetafv4preview2025,
+@misc{bwetafv4preview2026,
   title        = {BwETAFv4-preview},
   author       = {Boring._.wicked},
   year         = {2026},
